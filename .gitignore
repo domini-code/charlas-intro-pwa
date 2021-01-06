@@ -1,1 +1,6 @@
 .vscode/settings.json
+.DS_Store
+.firebaserc
+firebase.json
+.firebase/hosting.cHVibGlj.cache
+public/*
