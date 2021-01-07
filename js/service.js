@@ -26,5 +26,5 @@ const generatedCards = (heros)=> {
     </div>`;
   }
   container.innerHTML = contentHTML;
-  document.getElementById('loader').innerHTML = '';
+  document.querySelector('#loader').innerHTML = '';
 }
